@@ -1,8 +1,8 @@
 public class Question1
 {
+  System.out.println("Hello world!");
   public static void main(String[] args)
   {
-    System.out.println("Hello world!");
     /**
      * Print "Hello World!"
      * 
