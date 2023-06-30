@@ -1,3 +1,4 @@
+javac Question1.java
 java Question1
 public class Question1
 {
